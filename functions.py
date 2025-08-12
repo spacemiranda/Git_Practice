@@ -1,6 +1,7 @@
 # Here are some functions that you can fill in to make them work.
 # Replace the "raise NotImplementedError" line with the correct code!
-   
+# this is a comment made to test that my git commands are working correctly (added in the GH desktop editor!!)
+
 import numpy as np
 import astropy
 
